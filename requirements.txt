@@ -1,4 +1,4 @@
 Django==1.5.5
 simplejson
-cassandra-driver
+cassandra-driver==2.1.4
 loremipsum
